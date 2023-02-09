@@ -63,7 +63,7 @@ Review: [Exit Through the Training Data: A Look into Instance-Attribution Explan
 
 6. [Detecting Adversarial Samples Using Influence Functions and Nearest Neighbors](https://openaccess.thecvf.com/content_CVPR_2020/papers/Cohen_Detecting_Adversarial_Samples_Using_Influence_Functions_and_Nearest_Neighbors_CVPR_2020_paper.pdf) Proceedings of the IEEE/CVF conference on computer vision and pattern recognition. 2020.
 
-
+<!---
 ### Explanation Methods for NLP
 #### Instance level
 1. [On Sample Based Explanation Methods for NLP: Efficiency, Faithfulness, and Semantic Evaluation](https://aclanthology.org/2021.acl-long.419.pdf) arXiv preprint arXiv:2106.04753 (2021).
@@ -72,7 +72,7 @@ Review: [Exit Through the Training Data: A Look into Instance-Attribution Explan
 #### Feature level
 1. [Gradient-based Analysis of NLP Models is Manipulable](https://arxiv.org/pdf/2010.05419.pdf) arXiv preprint arXiv:2010.05419 (2020).
 2. [HotFlip: White-Box Adversarial Examples for Text Classification](https://arxiv.org/abs/1712.06751) arXiv preprint arXiv:1712.06751 (2017).
-
+-->
 
 
 
