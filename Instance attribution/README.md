@@ -19,6 +19,8 @@ Review: [Exit Through the Training Data: A Look into Instance-Attribution Explan
 7. [Representer Point Selection for Explaining Deep Neural Networks](https://arxiv.org/abs/1811.09720) Advances in neural information processing systems 31 (2018).
 8. [Understanding Instance-based Interpretability of Variational Auto-Encoders](https://arxiv.org/pdf/2105.14203.pdf) Advances in Neural Information Processing Systems 34 (2021).
 
+9. [Understanding Influence Functions and Datamodels via Harmonic Analysis](https://openreview.net/pdf?id=cxCEOSF99f) ICLR2023.
+
 <!---
  ## Evaluation metric (compared with leave-one-out)
    
