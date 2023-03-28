@@ -21,6 +21,8 @@ Review: [Exit Through the Training Data: A Look into Instance-Attribution Explan
 
 9. [Understanding Influence Functions and Datamodels via Harmonic Analysis](https://openreview.net/pdf?id=cxCEOSF99f) ICLR2023.
 
+10. [Datamodels: Predicting Predictions from Training Data](https://arxiv.org/pdf/2202.00622.pdf) ICML2022.
+
 <!---
  ## Evaluation metric (compared with leave-one-out)
    
