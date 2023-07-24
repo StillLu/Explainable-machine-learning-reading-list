@@ -1,7 +1,9 @@
 
 ## Multimodal XAI
 
+### Review
 
+[Multimodal Explainable Artificial Intelligence: A Comprehensive Review of Methodological Advances and Future Research Directions](https://arxiv.org/pdf/2306.05731.pdf)
 ### Interactive approaches
 
 [A Study on Multimodal and Interactive Explanations for Visual Question Answering](https://arxiv.org/abs/2003.00431) Proceedings of the Workshop on Artificial Intelligence Safety (SafeAI 2020).
