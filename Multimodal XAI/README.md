@@ -15,3 +15,5 @@
 [SHAPE: An Unified Approach to Evaluate the Contribution and Cooperation of Individual Modalities](https://arxiv.org/pdf/2205.00302.pdf)
 
 [MULTIVIZ: TOWARDS VISUALIZING AND UNDERSTANDING MULTIMODAL MODELS](https://openreview.net/pdf?id=i2_TvOFmEml)  ICLR 2023
+
+[SHARCS: Shared Concept Space for Explainable Multimodal Learning](https://arxiv.org/pdf/2307.00316.pdf) Under review
