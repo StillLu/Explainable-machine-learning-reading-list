@@ -15,3 +15,5 @@ A. Shapley value
 [Explaining prediction models and individual predictions with feature contributions](https://link.springer.com/article/10.1007/s10115-013-0679-x) Knowledge and information systems, 2014.
 
 [Bounding the Estimation Error of Sampling-based Shapley Value Approximation](https://arxiv.org/pdf/1306.4265.pdf) 2014.
+
+[Problems with Shapley-value-based explanations as feature importance measures](https://arxiv.org/pdf/2002.11097.pdf) ICML 2019.
