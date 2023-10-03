@@ -19,3 +19,5 @@ A. Shapley value
 [Bounding the Estimation Error of Sampling-based Shapley Value Approximation](https://arxiv.org/pdf/1306.4265.pdf) 2014.
 
 [Problems with Shapley-value-based explanations as feature importance measures](https://arxiv.org/pdf/2002.11097.pdf) ICML 2019.
+
+[FAITH-SHAP: THE FAITHFUL SHAPLEY INTERACTION INDEX](https://arxiv.org/pdf/2203.00870.pdf) 
